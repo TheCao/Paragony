@@ -227,3 +227,5 @@ _Pvt_Extensions
 
 *.aps
 *.rc
+*.props
+*.vcxproj*

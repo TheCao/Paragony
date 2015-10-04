@@ -9,7 +9,7 @@
 
 using namespace std;
 using namespace cv;
-
+//testuje gita
 obraz::obraz()
 {
 }

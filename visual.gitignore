@@ -222,3 +222,8 @@ _Pvt_Extensions
 ### VisualStudioCode ###
 .settings
 
+
+# user
+
+*.aps
+*.rc
